@@ -1,6 +1,6 @@
 
 # Vicky Loebel 
-### Full Stack Web Developer Portfolio 2021
+## Full Stack Web Developer Portfolio 2021
 
 Deployed Resume: [vloebel.github.io/react-resume](http://vloebel.github.io/portfolio/)   
 GitHub Repo: [vloebel.react-portfolio](https://github.com/vloebel/portfolio/) 
